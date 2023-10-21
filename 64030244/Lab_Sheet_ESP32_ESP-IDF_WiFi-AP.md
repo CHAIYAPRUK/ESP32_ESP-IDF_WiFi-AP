@@ -58,7 +58,7 @@
 ![Alt text](./Pictures/5.Example_Wifi_Properties.png)
 ### 7. ส่งงาน
 
-โดยการ pull request พร้อมแนบ link ไปยัง Repository ของโปรเจคมาด้วย
+โดยการ pull request พร้อมแนบ link ไปยัง Repository ของโปรเจคมาด้วย https://github.com/CHAIYAPRUK/ESP32-WiFi-AP
 
 ### ส่งงาน 
 หน้าจอ laptap
